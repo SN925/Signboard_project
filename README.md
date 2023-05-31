@@ -21,11 +21,11 @@ https://www.youtube.com/shorts/QoLHBg6lSCs
 
 # Description
 Signboard_project内にある各フォルダについて説明いたします。
-## signboard_api
+### signboard_api
 システムでの物体検出及びシステムの起動を担うソースコード等がございます。
 システムを動かすにはゼミの研究室にあるサーバーが必要ですが、現在はそのサーバーが停止してしまっているため使えない状況となっています。
-## signboard_classifier
+### signboard_classifier
 本システムの画像分類モデルの作成で使用したソースコード及び学習結果等がございます。
-## system_sub
+### system_sub
 本システムの改善を目的とした研究を行う際に、スクレイピングやクローリング、ジオコーディングやクラスタリング等を行いました。
 その時に使用したソースコード等がございます。
